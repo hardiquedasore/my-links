@@ -1,0 +1,128 @@
+{
+  "brand": "My Links",
+  "logo": "/logo.png",
+  "description": "All your links in one place",
+  "background": "",
+  "backgroundImage": "linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12)",
+  "color": "#FFFFFF",
+  "links": [
+    {
+      "title": "Follow us on X",
+      "url": "https://twitter.com/yourusername",
+      "icon": "/icons/x.svg",
+      "buttonColor": "#000000"
+    },
+    {
+        "title": "Tiktok",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/tiktok.svg",
+        "buttonColor": "#000000"
+      },
+      {
+        "title": "WhatsApp",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/whatsapp.svg",
+        "buttonColor": "#3E515A"
+      },
+      {
+        "title": "Threads",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/threads.svg",
+        "buttonColor": "#000000"
+      },
+      {
+        "title": "Subscribe to our channel",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/youtube.svg",
+        "buttonColor": "#000000"
+      },
+      {
+        "title": "Visit our website",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-website.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Email us",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-email.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Call us",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-phone.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Get Directions",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-map.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Leave us review",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-review.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Visit our shop",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-shopping-bag.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Buy on Amazon",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/amazon.svg",
+        "textColor": "#000000",
+        "buttonColor": "#FFFFFF",
+        "borderColor": "#222222"
+      },
+      {
+        "title": "Read our blog",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-blog.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Buy event tickets",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/generic-calendar.svg",
+        "buttonColor": "#2457F5"
+      },
+      {
+        "title": "Shop on Etsy",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/etsy.svg",
+        "buttonColor": "#DC4F00"
+      },
+      {
+        "title": "Buy with Square",
+        "url": "https://twitter.com/yourusername",
+        "icon": "/icons/square.svg",
+        "buttonColor": "#006AFF"
+      },
+    { 
+        "title": "Instagram", 
+        "url": "https://instagram.com/yourusername",
+        "icon": "/icons/instagram.svg",
+        "bgImage": "linear-gradient(-135deg, #1400c8, #b900b4, #f50000)",
+        "textColor": "#FFFFFF"
+    },
+    { 
+        "title": "Chat on Messenger", 
+        "url": "https://instagram.com/yourusername",
+        "icon": "/icons/messenger.svg",
+        "bgImage": "linear-gradient( 25deg, #0099ff, #5f5dff, #a033ff, #c740cc, #ff5280, #ff7061 )",
+        "textColor": "#FFFFFF"
+    },
+    { 
+        "title": "Find us on Facebook", 
+        "url": "https://github.com/yourusername",
+        "icon": "/icons/facebook.svg",
+        "buttonColor": "#1877F2"
+    }
+  ]
+}
